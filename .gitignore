@@ -1,0 +1,5 @@
+hummingbot/
+deploy/
+.venv/
+.env
+
